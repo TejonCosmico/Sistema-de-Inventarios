@@ -1,5 +1,6 @@
 package gab.inventarios;
 
+import gab.inventarios.models.Producto;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
