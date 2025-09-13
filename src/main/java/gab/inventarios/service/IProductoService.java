@@ -9,7 +9,7 @@ public interface IProductoService {
 
     Producto buscarProductoPorId(Integer idProducto);
 
-    void guardarProducto(Producto producto);
+    Producto guardarProducto(Producto producto);
 
     void eliminarProducto(Integer idProducto);
 }
